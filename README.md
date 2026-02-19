@@ -1,4 +1,4 @@
-# Buscador
+# Search Engine
 
-Implementación de un buscador en C++ incluyendo tokenización, indexación y búsqueda sobre un corpus.
-Práctica de la asignatura EI - UA.
+Search engine implementation in C++ inlcuding tokenization, indexing and search over a corpus.
+Project for Information Exploitation course.
